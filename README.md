@@ -27,7 +27,7 @@ No coding knowledge is required to understand the findings — our results are p
 
 ## 🔍 Key Findings
 
-- **Provincial Differences:** Income levels vary significantly across provinces. Province 59 shows the highest average income (~$112,899), while Province 11 has the lowest (~$93,999).
+- **Provincial Differences:** Income levels vary significantly across provinces. Province 59 shows the highest average income ($112,899), while Province 11 has the lowest ($93,999).
 - **Income After Tax:** Income after tax is significantly lower than before-tax earnings, highlighting the role of taxation in take-home pay.
 - **Income Sources:** Salaries are the primary source of income, but pensions and investments also play a notable role, especially for older individuals.
 - **Gender Gap:** A clear gender-based income disparity exists, with males earning more on average than females across most provinces.
