@@ -9,7 +9,7 @@
 
 This project analyzes income and employment data in Canada to uncover patterns across different demographics like gender, education, province, and immigration status. Using a real-world dataset, we answer key questions about income distribution and employment types.
 
-No coding knowledge is required to understand the findings — our results are presented with clear visuals and easy-to-follow explanations.
+No coding knowledge is required to understand the findings (our results are presented with clear visuals and easy-to-follow explanations).
 
 ---
 
